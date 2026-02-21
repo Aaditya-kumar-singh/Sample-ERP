@@ -1,0 +1,2 @@
+This folder is used by Multer as a temporary storage location for uploaded files.
+Files are moved to Cloudinary and deleted from here automatically after upload.
